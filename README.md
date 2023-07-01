@@ -6,7 +6,7 @@ to run the buildnet program, run this command:
 .\buildnet1.exe train_set_nn1.txt test_set_nn1.txt
 
 to run the runnet program, run this command:   
-.\runnet0.exe wnet0.txt testnet0.txt
+.\runnet0.exe wnet0.txt testnet0.txt     
 .\runnet1.exe wnet1.txt testnet1.txt
 
 if you want to preper the train and test file, you can use the program split_file.py     
